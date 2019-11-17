@@ -4,8 +4,8 @@
 
 Term: Fall 2019
 
-+ Team #
-+ Projec title: Lorem ipsum dolor sit amet
++ Team 8
++ Projec title: Algorithm implementation - ALS with KNN and KRR 
 + Team members
 	+ Zihan Zhou
 	+ Justine Zhang
