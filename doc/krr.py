@@ -9,6 +9,7 @@ Created on Sat Nov 16 23:46:50 2019
 
 import pandas as pd
 import numpy as np
+from sklearn.kernel_ridge import KernelRidge
 from sklearn.metrics import mean_squared_error
 
 
