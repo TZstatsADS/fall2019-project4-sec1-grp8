@@ -15,17 +15,20 @@ Term: Fall 2019
 	+ Justine Zhang:yz3420@columbia.edu
 	+ Jason Gao:yg2583@columbia.edu
 	
-**Contribution statement**: 
+**Contribution statement**:<br>
 
 + Zihan Zhou
 	-
 	-
+	
 + Suzy Gao
 	-
 	-
+	
 + Justine Zhang
 	-
 	-
+	
 + Jason Gao
 	-
 	-
