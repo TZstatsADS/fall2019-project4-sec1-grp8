@@ -5,11 +5,7 @@
 Term: Fall 2019
 
 + Projec title: Algorithm implementation - ALS with KNN and KRR 
-+ Team members
-	+ Zihan Zhou
-	+ Justine Zhang
-	+ Suzy Gao
-	+ Jason Gao
+
 + Project summary: In this project, we implemented Alternating Ordinary Sqaure(ALS) from scrach for Collaborative filtering in recommender system. We used regularization terms R1 and R2 in the algorithm. For the postprocessing part, we used k-nearest neighbor(KNN) and Kernel ridge regression(KRR) to make the predictions. 
 
 + Team sec1-grp8
@@ -20,6 +16,7 @@ Term: Fall 2019
 	+ Jason Gao:yg2583@columbia.edu
 	
 **Contribution statement**: 
+
 + Zihan Zhou
 	-
 	-
