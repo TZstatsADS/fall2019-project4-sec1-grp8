@@ -11,7 +11,7 @@ Term: Fall 2019
 + Team sec1-grp8
 + **Team members**: 
 	+ Zihan Zhou:zz2573@columbia.edu
-	+ Suzy Gao:g2333@columbia.edu
+	+ Suzy Gao:zg2333@columbia.edu
 	+ Justine Zhang:yz3420@columbia.edu
 	+ Jason Gao:yg2583@columbia.edu
 	
