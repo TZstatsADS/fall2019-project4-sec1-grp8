@@ -14,16 +14,16 @@ Term: Fall 2019
 + Project summary: In this project, we implemented Alternating Ordinary Sqaure(ALS) from scrach for Collaborative filtering in recommender system. We used regularization terms R1 and R2 in the algorithm. For the postprocessing part, we used k-nearest neighbor(KNN) and Kernel ridge regression(KRR) to make the predictions. 
 	
 **Contribution statement**: 
-	+ Zihan Zhou
+	Zihan Zhou
 	-
 	-
-	+ Justine Zhang
+	Justine Zhang
 	-
 	-
-	+ Suzy Gao
+	Suzy Gao
 	-
 	-
-	+ Jason Gao
+	Jason Gao
 	-
 	-
 
