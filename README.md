@@ -4,7 +4,7 @@
 
 Term: Fall 2019
 
-+ Projec title: Algorithm implementation - ALS with KNN and KRR 
++ Project title: Algorithm implementation - ALS with KNN and KRR 
 
 + Project summary: In this project, we implemented Alternating Least Sqaures(ALS) algorithm from scratch for Collaborative filtering in recommender system. We used regularization terms R1 and R2 in the algorithm. For the postprocessing part, we used K-Nearest Neighbor(KNN) and Kernel Ridge Regression(KRR) to make the predictions. 
 
