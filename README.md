@@ -2,6 +2,9 @@
 
 ### [Project Description](doc/project4_desc.md)
 
+[Presentation Slides]
+(https://docs.google.com/presentation/d/1J4p1HwbjgI1SjkLV2dvzVf7ON4oZQG7f28PW1R8qWCk/edit#slide=id.p)
+
 Term: Fall 2019
 
 + Project title: Algorithm implementation - ALS with KNN and KRR 
